@@ -2,7 +2,7 @@
 
 This expense tracking app allows users to add both income and expense items and then provides the user with their total balance.
 
-## [Try it out] (https://solomangarcia.github.io/expense-tracker/)
+## [Try it out](https://solomangarcia.github.io/expense-tracker/)
 
 ![image](./expensejs.png)
 
