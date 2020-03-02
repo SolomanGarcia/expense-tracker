@@ -22,6 +22,7 @@ body {
 .container {
     margin: 30px auto;
     width: 350px;
+    background-image: url(./photo-1501769214405-5e5ee5125a02.jpg);
 }
 
 h1 {
