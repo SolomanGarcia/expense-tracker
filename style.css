@@ -19,6 +19,8 @@ body {
     font-family: 'Lato', sans-serif;
     background-image: url(./photo-1501769214405-5e5ee5125a02.jpg);
     background-position: center;
+    background-size: cover;
+    
 }
 
 .container {
