@@ -17,12 +17,12 @@ body {
     min-height: 100vh;
     margin: 0;
     font-family: 'Lato', sans-serif;
+    background-image: url(./photo-1501769214405-5e5ee5125a02.jpg);
 }
 
 .container {
     margin: 30px auto;
     width: 350px;
-    background-image: url(./photo-1501769214405-5e5ee5125a02.jpg);
 }
 
 h1 {
